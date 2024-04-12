@@ -1,7 +1,7 @@
 # video-processing
 A website that lets you upload videos and converts them to 360px. The idea is to not focus on the looks of the UI but to build a full-stack application.
 
-Features:
+** Features: **
 - Users can sign in/out using their Google account
 - Users can upload videos while signed in
 - Videos should be transcoded to multiple formats (e.g. 360p, 720p)
