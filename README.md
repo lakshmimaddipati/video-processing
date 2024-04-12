@@ -17,4 +17,7 @@ A website that lets you upload videos and transcode them. The idea is to not foc
 - The Next.js app will make API calls to Firebase Functions.
 - Firebase Functions will fetch videos from Cloud Firestore and return them.
 
+![image](https://github.com/LakshmiMaddipati/video-processing/assets/82107355/28eb945a-bcf0-44cf-bf94-172fc769f89b)
+
+
 
