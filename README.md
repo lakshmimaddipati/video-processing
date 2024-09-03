@@ -1,4 +1,4 @@
-# video-processing
+# video-processor
 A website that lets you upload videos and transcode them. The idea is to not focus on the looks of the UI but to build a functional full-stack application.
 
 **Features:**
